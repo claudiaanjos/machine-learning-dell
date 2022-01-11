@@ -5,7 +5,7 @@
 
 Neste curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) aprofundamos nossos conhecimentos em Machine Learning. 
 
-### 🖥️  Aulas (Em andamento)
+### 🖥️  Aulas 
 
 - 1.1 - Python aplicado a Data Science
 - 1.2 - Introdução a Machine Learning
